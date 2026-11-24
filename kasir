@@ -1,0 +1,167 @@
+<div style="width: 1440px; height: 1024px; position: relative; background: white; overflow: hidden">
+  <div style="width: 793px; height: 764px; left: 323px; top: 150px; position: absolute; background: #F2F2F2; border-radius: 20px; outline: 1px #E0D7D7 solid"></div>
+  <img style="width: 50px; height: 50px; left: 563px; top: 825px; position: absolute" src="https://placehold.co/50x50" />
+  <div style="left: 504px; top: 277px; position: absolute; color: #1E1E1E; font-size: 20px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Silahkan masuk untuk menggunakan sistem</div>
+  <div style="left: 569px; top: 200px; position: absolute; color: #0A3B14; font-size: 48px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Nyawiji Roso</div>
+  <div style="left: 430px; top: 394px; position: absolute; color: rgba(0, 0, 0, 0.98); font-size: 20px; font-family: Work Sans; font-weight: 700; word-wrap: break-word">Username</div>
+  <div style="left: 430px; top: 532px; position: absolute; color: black; font-size: 20px; font-family: Work Sans; font-weight: 700; word-wrap: break-word">Password</div>
+  <div style="left: 623px; top: 838px; position: absolute; color: #0A3B14; font-size: 20px; font-family: Work Sans; font-weight: 400; word-wrap: break-word"> Kembali Ke Website</div>
+  <div style="width: 545px; height: 71px; left: 430px; top: 441px; position: absolute; background: white; border-radius: 20px; outline: 1px #757272 solid"></div>
+  <div style="width: 545px; height: 77px; left: 430px; top: 576px; position: absolute; background: white; border-radius: 20px; outline: 1px #757272 solid"></div>
+  <div style="width: 533px; height: 75px; left: 430px; top: 699px; position: absolute; background: #0A3B14; border-radius: 20px; outline: 1px black solid"></div>
+  <div style="left: 644px; top: 716px; position: absolute; color: white; font-size: 36px; font-family: Work Sans; font-weight: 700; word-wrap: break-word">Masuk</div>
+</div>
+<div style="width: 1440px; height: 1024px; position: relative; background: white; overflow: hidden; outline: 1px black solid; outline-offset: -1px">
+  <div style="width: 1440px; height: 102px; left: 0px; top: 0px; position: absolute; overflow: hidden; outline: 1px rgba(0, 0, 0, 0.26) solid; outline-offset: -1px">
+    <div style="left: 27px; top: 31px; position: absolute; color: #0A3B14; font-size: 32px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">NYAWIJI ROSO </div>
+    <div style="left: 696px; top: 39px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">STORY</div>
+    <div style="left: 822px; top: 39px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">MENU</div>
+    <div style="left: 931px; top: 39px; position: absolute; color: #0A3B14; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">SISTEM KASIR</div>
+    <div style="width: 172px; height: 58px; left: 1122px; top: 22px; position: absolute; background: #0A3B14; overflow: hidden; border-radius: 30px">
+      <div style="left: 45px; top: 14px; position: absolute; color: white; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">ADMIN</div>
+    </div>
+    <div style="left: 1319px; top: 36px; position: absolute; color: #F51010; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">KELUAR </div>
+  </div>
+  <div style="width: 1028px; height: 902px; left: 206px; top: 102px; position: absolute; overflow: hidden; outline: 1px rgba(0, 0, 0, 0.29) solid; outline-offset: -1px">
+    <div style="left: 22px; top: 22px; position: absolute; color: #0A3B14; font-size: 32px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Input Transaksi Kasir </div>
+    <div style="width: 943px; height: 3px; left: 19px; top: 67px; position: absolute; background: rgba(114.50, 107.68, 107.68, 0.32)"></div>
+    <div style="left: 22px; top: 94px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Nama Pelanggan / Nomor Meja </div>
+    <div style="left: 22px; top: 208px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Pilih Menu Pesanan </div>
+    <div style="left: 26px; top: 694px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Kembalian (Otomatis)</div>
+    <div style="left: 22px; top: 468px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Total Belanja (Otomatis)</div>
+    <div style="left: 26px; top: 584px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Uang Tunai dari Pembeli (Rp)</div>
+    <div style="width: 950px; height: 53px; left: 22px; top: 133px; position: absolute; background: white; border-radius: 15px; border: 1px #B4AEAE solid"></div>
+    <div style="width: 600px; height: 60px; left: 22px; top: 247px; position: absolute; background: white; border-radius: 15px; border: 1px #B4AEAE solid"></div>
+    <div style="width: 600px; height: 60px; left: 22px; top: 328px; position: absolute; background: white; border-radius: 15px; border: 1px #B4AEAE solid"></div>
+    <div style="width: 350px; height: 60px; left: 646px; top: 328px; position: absolute; opacity: 0.50; background: white; border-radius: 15px; border: 1px #B4AEAE solid"></div>
+    <div style="width: 350px; height: 60px; left: 646px; top: 247px; position: absolute; opacity: 0.50; background: white; border-radius: 15px; border: 1px #B4AEAE solid"></div>
+    <div style="width: 950px; height: 53px; left: 26px; top: 629px; position: absolute; background: white; border-radius: 15px; border: 1px #B4AEAE solid"></div>
+    <div style="width: 950px; height: 53px; left: 26px; top: 735px; position: absolute; background: white; border-radius: 15px; border: 1px #B4AEAE solid"></div>
+    <div style="left: 41px; top: 745px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Rp 0</div>
+    <div style="left: 46px; top: 639px; position: absolute; color: #B4AEAE; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Masuk nominal uang </div>
+    <div style="width: 950px; height: 53px; left: 22px; top: 514px; position: absolute; background: #D1F1C6; border-radius: 10px; border: 1px white solid"></div>
+    <div style="left: 48px; top: 527px; position: absolute; color: #0A3B14; font-size: 24px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Rp 0</div>
+    <div style="width: 300px; height: 53px; left: 22px; top: 411px; position: absolute; background: #45C03A; border-radius: 15px; border: 1px #B4AEAE solid"></div>
+    <div style="width: 960px; height: 65px; left: 22px; top: 808px; position: absolute; background: #0A3B14; border-radius: 30px; border: 1px #B4AEAE solid"></div>
+    <div style="left: 355px; top: 821px; position: absolute; color: white; font-size: 30px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Proses & Cetak Nota</div>
+    <div style="left: 45px; top: 423px; position: absolute; color: white; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">+ Tambah Menu Lain</div>
+    <div style="left: 41px; top: 259px; position: absolute; color: #423D3D; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Kentang Goreng (12000)</div>
+    <div style="left: 44px; top: 339px; position: absolute; color: #423D3D; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Aren Shake (10000)</div>
+    <div style="left: 41px; top: 143px; position: absolute; color: #252323; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Andi - 2</div>
+    <div style="width: 20px; height: 20px; left: 582px; top: 263px; position: absolute; overflow: hidden">
+      <div style="width: 16.61px; height: 9.57px; left: 1.68px; top: 6.25px; position: absolute; background: black"></div>
+    </div>
+    <div style="width: 20px; height: 20px; left: 582px; top: 347px; position: absolute; overflow: hidden">
+      <div style="width: 16.61px; height: 9.57px; left: 1.68px; top: 6.25px; position: absolute; background: black"></div>
+    </div>
+    <div style="width: 27px; height: 27px; left: 956px; top: 347px; position: absolute; overflow: hidden">
+      <div style="width: 13.74px; height: 21.61px; left: 6.63px; top: 2.69px; position: absolute; background: black"></div>
+    </div>
+    <div style="left: 667px; top: 263px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">2</div>
+    <div style="width: 27px; height: 27px; left: 956px; top: 263px; position: absolute; overflow: hidden">
+      <div style="width: 13.74px; height: 21.61px; left: 6.63px; top: 2.69px; position: absolute; background: black"></div>
+    </div>
+    <div style="left: 665px; top: 341px; position: absolute; color: #B4AEAE; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Qty</div>
+  </div>
+</div>
+<div style="width: 1440px; height: 1024px; position: relative; background: white; overflow: hidden">
+  <div style="width: 859px; height: 702px; left: 291px; top: 69px; position: absolute; overflow: hidden; border-radius: 20px; outline: 1px #0A3B14 solid; outline-offset: -1px">
+    <div style="left: 278px; top: 17px; position: absolute; color: #0A3B14; font-size: 32px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Cafe Nyawiji Roso </div>
+    <div style="left: 208px; top: 61px; position: absolute; color: #595555; font-size: 20px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Jl. Nusantara Raya No. 10, Kopi & Cita Rasa</div>
+    <div style="left: 40px; top: 111px; position: absolute; color: #0A3B14; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Pelanggan:</div>
+    <div style="left: 176px; top: 111px; position: absolute; color: #595555; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">eni</div>
+    <div style="left: 40px; top: 147px; position: absolute; color: #0A3B14; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Tanggal:</div>
+    <div style="left: 145px; top: 147px; position: absolute; color: #595555; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">30-09-2026 14:31:10</div>
+    <div style="left: 40px; top: 220px; position: absolute; color: #4E4848; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Menu</div>
+    <div style="left: 502px; top: 226px; position: absolute; color: #4E4848; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Qty</div>
+    <div style="left: 636px; top: 226px; position: absolute; color: #4E4848; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Subtotal</div>
+    <div style="left: 40px; top: 285px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Matcha Latte Cold</div>
+    <div style="left: 516px; top: 285px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">1X</div>
+    <div style="left: 516px; top: 344px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">1X</div>
+    <div style="left: 633px; top: 285px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Rp 22.000</div>
+    <div style="left: 40px; top: 344px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Es Teh Lecy</div>
+    <div style="left: 636px; top: 344px; position: absolute; color: black; font-size: 24px; font-family: Work Sans; font-weight: 500; word-wrap: break-word">Rp 15.000</div>
+    <div style="width: 790px; height: 3px; left: 40px; top: 412px; position: absolute; background: #0A3B14"></div>
+    <div style="width: 790px; height: 3px; left: 40px; top: 560px; position: absolute; background: rgba(115, 108, 108, 0.27)"></div>
+    <div style="left: 251px; top: 603px; position: absolute; color: #595555; font-size: 20px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Terima kasih atas kunjungan Anda!<br/>“Nyawiji Roso - Menyatunya Rasa”</div>
+    <div style="left: 38px; top: 428px; position: absolute; color: black; font-size: 28px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Total Belanja: </div>
+    <div style="left: 38px; top: 467px; position: absolute; color: black; font-size: 28px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Uang Bayar:</div>
+    <div style="left: 38px; top: 506px; position: absolute; color: black; font-size: 28px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Kembalian:</div>
+    <div style="left: 695px; top: 428px; position: absolute; color: black; font-size: 28px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Rp 37.000</div>
+    <div style="left: 689px; top: 467px; position: absolute; color: black; font-size: 28px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Rp 40.000</div>
+    <div style="left: 707px; top: 506px; position: absolute; color: black; font-size: 28px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Rp 3.000</div>
+  </div>
+  <div style="width: 790px; height: 3px; left: 330px; top: 252px; position: absolute; background: rgba(114.50, 107.68, 107.68, 0.32)"></div>
+  <div style="width: 790px; height: 3px; left: 330px; top: 340px; position: absolute; background: rgba(114.50, 107.68, 107.68, 0.32)"></div>
+  <div style="width: 850px; height: 75px; left: 294px; top: 809px; position: absolute; background: #403B3B; border-radius: 35px"></div>
+  <div style="left: 575px; top: 830px; position: absolute; color: white; font-size: 32px; font-family: Work Sans; font-weight: 600; word-wrap: break-word">Cetak / Print Nota</div>
+  <div style="left: 618px; top: 917px; position: absolute; color: #0A3B14; font-size: 32px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Transaksi Baru</div>
+  <div style="width: 38px; height: 38px; left: 518px; top: 830px; position: absolute; overflow: hidden">
+    <div style="width: 29.29px; height: 12.12px; left: 4.35px; top: 15.92px; position: absolute; outline: 0.50px black solid; outline-offset: -0.25px"></div>
+    <div style="width: 15.01px; height: 27.81px; left: 11.49px; top: 5.09px; position: absolute; outline: 0.50px black solid; outline-offset: -0.25px"></div>
+    <div style="width: 3.17px; height: 3.17px; left: 23.34px; top: 5.09px; position: absolute; outline: 0.50px black solid; outline-offset: -0.25px"></div>
+    <div style="width: 1.19px; height: 1.19px; left: 30.96px; top: 17.53px; position: absolute; background: black"></div>
+    <div style="width: 1.19px; height: 1.19px; left: 28.57px; top: 17.53px; position: absolute; background: black"></div>
+    <div style="width: 1.19px; height: 1.19px; left: 26.18px; top: 17.53px; position: absolute; background: black"></div>
+  </div>
+</div>
+<div style="width: 1440px; height: 1080px; position: relative; background: #F8F9FA; overflow: hidden">
+  <div style="width: 1059px; height: 1033px; padding-top: 48px; padding-bottom: 45px; padding-left: 46px; padding-right: 46px; left: 190px; top: 23px; position: absolute; background: white; overflow: hidden; border-radius: 50px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; height: 60px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+      <div style="width: 31px; height: 31px; background: #124C3C"></div>
+      <div style="color: #124C3C; font-size: 36px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Edit Data Menu</div>
+    </div>
+    <div style="align-self: stretch; height: 2px; background: #E9ECEF"></div>
+    <div style="align-self: stretch; padding-top: 32px; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+      <div style="align-self: stretch; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 11px; display: flex">
+        <div style="color: #212529; font-size: 24px; font-family: Montserrat; font-weight: 600; line-height: 29px; word-wrap: break-word">Nama Menu</div>
+        <div style="align-self: stretch; height: 68px; padding-left: 19px; padding-right: 19px; background: white; overflow: hidden; border-radius: 7px; outline: 1px #E9ECEF solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="flex: 1 1 0; color: #212529; font-size: 24px; font-family: Montserrat; font-weight: 400; line-height: 28px; word-wrap: break-word">Mie Goreng Special</div>
+        </div>
+      </div>
+      <div style="align-self: stretch; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 11px; display: flex">
+        <div style="color: #212529; font-size: 24px; font-family: Montserrat; font-weight: 600; line-height: 29px; word-wrap: break-word">Kategori</div>
+        <div style="align-self: stretch; height: 68px; padding-left: 19px; padding-right: 19px; background: white; overflow: hidden; border-radius: 7px; outline: 1px #E9ECEF solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="flex: 1 1 0; color: #212529; font-size: 24px; font-family: Montserrat; font-weight: 400; line-height: 28px; word-wrap: break-word">Makanan</div>
+          <div style="width: 15px; height: 10px; border: 2px #212529 solid"></div>
+        </div>
+      </div>
+      <div style="align-self: stretch; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 11px; display: flex">
+        <div style="color: #212529; font-size: 24px; font-family: Montserrat; font-weight: 600; line-height: 29px; word-wrap: break-word">Harga (Rp)</div>
+        <div style="align-self: stretch; height: 68px; padding-left: 19px; padding-right: 19px; position: relative; background: white; overflow: hidden; border-radius: 7px; outline: 2px #789C91 solid; outline-offset: -2px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="flex: 1 1 0; color: #212529; font-size: 24px; font-family: Montserrat; font-weight: 400; line-height: 28px; word-wrap: break-word">9965</div>
+          <div style="overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: inline-flex">
+            <div style="width: 12px; height: 7px; background: #8D959D"></div>
+            <div style="width: 12px; height: 7px; background: #8D959D"></div>
+          </div>
+          <div style="width: 1px; height: 28px; left: 77px; top: 19px; position: absolute; background: #212529"></div>
+        </div>
+      </div>
+      <div style="align-self: stretch; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 11px; display: flex">
+        <div style="color: #212529; font-size: 24px; font-family: Montserrat; font-weight: 600; line-height: 29px; word-wrap: break-word">Deskripsi Singkat</div>
+        <div style="align-self: stretch; height: 126px; padding-left: 19px; padding-right: 19px; padding-top: 16px; padding-bottom: 16px; position: relative; background: white; overflow: hidden; border-radius: 7px; outline: 1px #E9ECEF solid; outline-offset: -1px; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+          <div style="flex: 1 1 0; color: #212529; font-size: 24px; font-family: Montserrat; font-weight: 400; line-height: 28px; word-wrap: break-word">Mi goreng special dengan bumbu racikan khas chef, dilengkapi topping telur dan bawang goreng rasa gurih autentik dengan aroma smoky yang memikat!</div>
+          <div style="width: 13px; height: 13px; left: 950px; top: 109px; position: absolute; border: 1px #8D959D solid"></div>
+        </div>
+      </div>
+      <div style="align-self: stretch; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 11px; display: flex">
+        <div style="color: #212529; font-size: 24px; font-family: Montserrat; font-weight: 600; line-height: 29px; word-wrap: break-word">Ganti Gambar Menu (Opsional)</div>
+        <div style="align-self: stretch; height: 72px; padding-left: 16px; padding-right: 16px; background: white; overflow: hidden; border-radius: 7px; outline: 1px #E9ECEF solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+          <div style="height: 41px; padding-left: 9px; padding-right: 9px; background: #EFEFEF; overflow: hidden; border-radius: 3px; outline: 1px #767676 solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+            <div style="color: #212529; font-size: 24px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Choose File</div>
+          </div>
+          <div style="color: #6C757D; font-size: 24px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">No file chosen</div>
+        </div>
+        <div style="color: #8D959D; font-size: 22px; font-family: Montserrat; font-weight: 400; line-height: 26px; word-wrap: break-word">*Biarkan kosong jika tidak ingin mengganti gambar saat ini.</div>
+      </div>
+    </div>
+    <div style="align-self: stretch; padding-top: 32px; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 22px; display: inline-flex">
+      <div style="height: 66px; padding-left: 38px; padding-right: 38px; background: #124C3C; overflow: hidden; border-radius: 8px; justify-content: flex-start; align-items: center; display: flex">
+        <div style="color: white; font-size: 24px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Simpan Perubahan</div>
+      </div>
+      <div style="height: 66px; padding-left: 39px; padding-right: 39px; background: #6C757D; overflow: hidden; border-radius: 8px; justify-content: flex-start; align-items: center; display: flex">
+        <div style="color: white; font-size: 24px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Batal</div>
+      </div>
+    </div>
+  </div>
+</div>
